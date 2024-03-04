@@ -34,6 +34,9 @@ int main(){
                     }
                 }
             }
+            else {
+                break ;
+            }
         }
     }
     if (v[n][m] == 2) 
