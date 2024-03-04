@@ -2,5 +2,5 @@
 ## Softaware Chasers
 ### This repository contains our solutions for the ISIMS Solving Cup 1.0.
 #### Our team consists of: 
-##### - Khaled Kammoun 
-##### - Ayoub Ghoula
+##### • <a href="https://github.com/KhaledKammoun" target="_blank">Khaled Kammoun</a> 
+##### • Ayoub Ghoula
